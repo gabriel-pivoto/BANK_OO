@@ -13,22 +13,22 @@ namespace myBank
 
             ContaCorrente contaDaMaria = new ContaCorrente("Maria", 1234, 791, 150);
 
-            Console.WriteLine("O titular da conta é: " + contaDoPivas.titular);
+            Console.WriteLine( "Saldos \nO titular da conta é: " + contaDoPivas.titular);
             Console.WriteLine("O titular da conta é: " + contaDoJoao.titular);
-            Console.WriteLine("O titular da conta é: " + contaDaMaria.titular);
+            Console.WriteLine("O titular da conta é: " + contaDaMaria.titular  +"\n");
 
             contaDoPivas.Sacar(50);
             contaDaMaria.Sacar(20);
 
-            Console.WriteLine("O saldo da conta do Pivas é: " + contaDoPivas.saldo);
-            Console.WriteLine("O saldo da conta da Maria é: " + contaDaMaria.saldo);
+            Console.WriteLine("Sacar \nO saldo da conta do Pivas é: " + contaDoPivas.saldo);
+            Console.WriteLine("O saldo da conta da Maria é: " + contaDaMaria.saldo  +"\n");
 
             contaDoPivas.Depositar(150);
-            Console.WriteLine("O saldo da conta do Pivas é:" + contaDoPivas.saldo);
+            Console.WriteLine("Depositar \nO saldo da conta do Pivas é:" + contaDoPivas.saldo +"\n");
 
             contaDoPivas.Transferir(200, contaDoJoao);
-            Console.WriteLine("O saldo da conta do Pivas é:" + contaDoPivas.saldo);
-            Console.WriteLine("O saldo da conta do João é:" + contaDoJoao.saldo);
+            Console.WriteLine("Trasferência \nO saldo da conta do Pivas é:" + contaDoPivas.saldo);
+            Console.WriteLine("O saldo da conta do João é:" + contaDoJoao.saldo +"\n");
         }
     }
 }
