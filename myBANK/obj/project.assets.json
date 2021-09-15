@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BANK_OO\\BANK_OO\\BANK_OO\\BANK_OO.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BANK_OO\\BANK_OO\\myBANK\\BANK_OO.csproj",
       "projectName": "BANK_OO",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BANK_OO\\BANK_OO\\BANK_OO\\BANK_OO.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BANK_OO\\BANK_OO\\myBANK\\BANK_OO.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BANK_OO\\BANK_OO\\BANK_OO\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BANK_OO\\BANK_OO\\myBANK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
