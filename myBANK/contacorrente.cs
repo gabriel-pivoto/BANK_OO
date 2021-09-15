@@ -7,11 +7,22 @@ public class ContaCorrente{
 
     public ContaCorrente() {}
 
-    public ContaCorrente(string titular, int agencia, int conta, double saldo)
+    public ContaCorrente(string contacorrente_titular, int contacorrente_agencia, int contacorrente_conta, double contacorrente_saldo)
     { 
-        this.titular = titular;
-        this.agencia = agencia;
-        this.conta = conta;
-        this.saldo = saldo;
+        titular = contacorrente_titular;
+        agencia = contacorrente_agencia;
+        conta = contacorrente_conta;
+        saldo = contacorrente_saldo;
     }
+
+    public bool Sacar (double valor){
+        if(this.saldo < valor){
+            return false;
+        }
+        else{
+            this.saldo -= valor;
+            return true;
+        }
+    }
+
 }

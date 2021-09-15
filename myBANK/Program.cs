@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace myBank
 {
@@ -15,6 +16,12 @@ namespace myBank
             Console.WriteLine("O titular da conta é: " + contaDoPivas.titular);
             Console.WriteLine("O titular da conta é: " + contaDoJoao.titular);
             Console.WriteLine("O titular da conta é: " + contaDaMaria.titular);
+
+            contaDoPivas.Sacar(50);
+            contaDaMaria.Sacar(20);
+
+            Console.WriteLine("O saldo da conta do Pivas é: " + contaDoPivas.saldo);
+            Console.WriteLine("O saldo da conta da Maria é: " + contaDaMaria.saldo);
         }
     }
 }
