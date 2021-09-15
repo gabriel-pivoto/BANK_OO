@@ -22,6 +22,9 @@ namespace myBank
 
             Console.WriteLine("O saldo da conta do Pivas é: " + contaDoPivas.saldo);
             Console.WriteLine("O saldo da conta da Maria é: " + contaDaMaria.saldo);
+
+            contaDoPivas.Depositar(150);
+            Console.WriteLine("O saldo da conta do Pivas é:" + contaDoPivas.saldo);
         }
     }
 }
