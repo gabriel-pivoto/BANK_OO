@@ -25,6 +25,10 @@ namespace myBank
 
             contaDoPivas.Depositar(150);
             Console.WriteLine("O saldo da conta do Pivas é:" + contaDoPivas.saldo);
+
+            contaDoPivas.Transferir(200, contaDoJoao);
+            Console.WriteLine("O saldo da conta do Pivas é:" + contaDoPivas.saldo);
+            Console.WriteLine("O saldo da conta do João é:" + contaDoJoao.saldo);
         }
     }
 }
