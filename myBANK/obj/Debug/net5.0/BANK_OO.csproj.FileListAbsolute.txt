@@ -30,3 +30,19 @@ C:\Users\gabri\OneDrive\Área de Trabalho\ETE FMC\BANK_OO\myBANK\bin\Debug\net5.
 C:\Users\gabri\OneDrive\Área de Trabalho\ETE FMC\BANK_OO\myBANK\bin\Debug\net5.0\ref\BANK_OO.dll
 C:\Users\gabri\OneDrive\Área de Trabalho\ETE FMC\BANK_OO\myBANK\bin\Debug\net5.0\BANK_OO.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\ETE FMC\BANK_OO\myBANK\obj\Debug\net5.0\BANK_OO.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\obj\Debug\net5.0\BANK_OO.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\obj\Debug\net5.0\BANK_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\obj\Debug\net5.0\BANK_OO.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\obj\Debug\net5.0\BANK_OO.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\obj\Debug\net5.0\BANK_OO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\obj\Debug\net5.0\BANK_OO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\obj\Debug\net5.0\ref\BANK_OO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\obj\Debug\net5.0\BANK_OO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\bin\Debug\net5.0\BANK_OO.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\bin\Debug\net5.0\BANK_OO.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\bin\Debug\net5.0\BANK_OO.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\bin\Debug\net5.0\BANK_OO.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\bin\Debug\net5.0\BANK_OO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\bin\Debug\net5.0\ref\BANK_OO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\bin\Debug\net5.0\BANK_OO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\bank\BANK_OO\myBANK\obj\Debug\net5.0\BANK_OO.genruntimeconfig.cache
